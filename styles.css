@@ -54,7 +54,8 @@ body.dark { background: #1e1e1e; color: #615f59; }
 .dark .CodeMirror-gutters { border-right: 1px solid #1e1e1e; }
 .dark .CodeMirror-cursors { color: white; background-color: white; }
 .dark #console-output li:nth-child(odd){ background-color: transparent;}
-
+.dark .toolbar h3 {font-weight: normal;}
+.dark #html-panel .toolbar, .dark #css-panel .toolbar, .dark #js-panel .toolbar { padding-left: 22px;}
 /*
 
     Name:       Base16 Default Dark
