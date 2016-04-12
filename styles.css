@@ -53,6 +53,7 @@ body.dark { background: #1e1e1e; color: #615f59; }
 .dark .CodeMirror-gutter { background-color: #282828; }
 .dark .CodeMirror-gutters { border-right: 1px solid #1e1e1e; }
 .dark .CodeMirror-cursors { color: white; background-color: white; }
+.dark #console-output li:nth-child(odd){ background-color: transparent;}
 
 /*
 
